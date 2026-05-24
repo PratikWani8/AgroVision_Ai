@@ -4,7 +4,6 @@ import { getIO } from "../config/socket.js";
 export const createAlert = async (req, res) => {
   try {
     const alert = await Alert.create(req.body);
-
     const io = getIO();
 
     io.emit("alert", alert);
