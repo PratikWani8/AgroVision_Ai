@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+
+  "features": [
+    {
+      "type": "Feature",
+
+      "properties": {
+        "name": "Pune"
+      },
+
+      "geometry": {
+        "type": "Polygon",
+
+        "coordinates": [
+          [
+            [73.70, 18.40],
+            [74.10, 18.40],
+            [74.10, 18.90],
+            [73.70, 18.90],
+            [73.70, 18.40]
+          ]
+        ]
+      }
+    }
+  ]
+}

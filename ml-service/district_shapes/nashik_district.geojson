@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+
+  "features": [
+    {
+      "type": "Feature",
+
+      "properties": {
+        "name": "Nashik"
+      },
+
+      "geometry": {
+        "type": "Polygon",
+
+        "coordinates": [
+          [
+            [73.50, 19.80],
+            [74.10, 19.80],
+            [74.10, 20.40],
+            [73.50, 20.40],
+            [73.50, 19.80]
+          ]
+        ]
+      }
+    }
+  ]
+}

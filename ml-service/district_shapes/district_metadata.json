@@ -1,0 +1,25 @@
+{
+  "state": "Maharashtra",
+
+  "districts": [
+    {
+      "name": "Pune",
+      "crop": "Sugarcane"
+    },
+
+    {
+      "name": "Nashik",
+      "crop": "Grapes"
+    },
+
+    {
+      "name": "Nagpur",
+      "crop": "Cotton"
+    },
+
+    {
+      "name": "Kolhapur",
+      "crop": "Rice"
+    }
+  ]
+}
