@@ -1,0 +1,56 @@
+{
+  "project": "AgroVision AI",
+
+  "satellite": "Sentinel-2",
+
+  "provider": "Sentinel Hub",
+
+  "image_id": "S2A_SAMPLE_001",
+
+  "capture_date": "2026-05-25",
+
+  "district": "Pune",
+
+  "state": "Maharashtra",
+
+  "resolution": "10m",
+
+  "format": "GeoTIFF",
+
+  "cloud_cover": 5,
+
+  "bands": [
+    {
+      "band": "B02",
+      "description": "Blue"
+    },
+
+    {
+      "band": "B03",
+      "description": "Green"
+    },
+
+    {
+      "band": "B04",
+      "description": "Red"
+    },
+
+    {
+      "band": "B08",
+      "description": "Near Infrared"
+    }
+  ],
+
+  "indices_supported": [
+    "NDVI",
+    "NDWI",
+    "EVI",
+    "SAVI",
+    "GNDVI"
+  ],
+
+  "coordinates": {
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  }
+}
