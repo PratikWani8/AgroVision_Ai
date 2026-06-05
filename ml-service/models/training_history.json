@@ -1,0 +1,39 @@
+{
+  "training_runs": [
+    {
+      "date": "2026-05-25",
+
+      "model": "XGBoost",
+
+      "dataset": "crop_disease_dataset.csv",
+
+      "accuracy": 0.91,
+
+      "precision": 0.90,
+
+      "recall": 0.89,
+
+      "f1_score": 0.89,
+
+      "trainingTime": "12s"
+    },
+
+    {
+      "date": "2026-05-26",
+
+      "model": "RandomForest",
+
+      "dataset": "crop_disease_dataset.csv",
+
+      "accuracy": 0.87,
+
+      "precision": 0.86,
+
+      "recall": 0.85,
+
+      "f1_score": 0.85,
+
+      "trainingTime": "8s"
+    }
+  ]
+}
