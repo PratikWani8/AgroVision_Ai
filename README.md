@@ -1,15 +1,15 @@
-<h1 align="center">🌱 AgroVision AI - Satellite-Powered Crop Disease Detection & Early Warning System</h1>
+<h1 align="center">🌱 AgroVision - Satellite-Powered Crop Disease Detection & Early Warning System</h1>
 <p align="center">
-  <img src="./assets/agrovisionai_logo.png" alt="AgroVision AI Logo" width="700" height="250"/>
+  <img src="./assets/agrovision_logo.png" alt="AgroVision Logo" width="700" height="250"/>
 </p>
 
-An AI-powered agriculture intelligence platform that combines satellite imagery, machine learning, GIS analytics, weather intelligence, and outbreak forecasting to help monitor crop health and agricultural risks.
+An ML-powered agriculture intelligence platform that combines satellite imagery, machine learning, GIS analytics, weather intelligence, and outbreak forecasting to help monitor crop health and agricultural risks.
 
 ---
 
 ## Overview
 
-AgroVision AI provides:
+AgroVision provides:
 
 - Satellite-based vegetation monitoring
 - NDVI, EVI, and NDWI analytics
@@ -18,7 +18,7 @@ AgroVision AI provides:
 - GIS visualization dashboards
 - Weather analytics
 - Real-time alerting system
-- AI-powered forecasting
+- ML-powered forecasting
 
 The platform follows a microservice architecture consisting of:
 
@@ -29,7 +29,7 @@ Backend API (Node.js + Express)
         ↓
 ML Service (FastAPI)
         ↓
-Satellite Processing & AI Models
+Satellite Processing & ML Models
 ```
 
 ---
@@ -119,7 +119,7 @@ Satellite Processing & AI Models
 # Project Structure
 
 ```text
-AgroVision-AI/
+AgroVision/
 │
 ├── frontend/
 │
@@ -138,9 +138,9 @@ AgroVision-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/PratikWani8/AgroVision_Ai.git
+git clone https://github.com/PratikWani8/AgroVision.git
 
-cd agrovision-ai
+cd agrovision
 ```
 
 ---
@@ -188,7 +188,7 @@ GeoTIFF Processing
         ↓
 NDVI / EVI / NDWI
         ↓
-AI Analysis
+ML Analysis
         ↓
 Risk Prediction
         ↓
