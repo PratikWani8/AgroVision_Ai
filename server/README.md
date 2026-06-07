@@ -1,6 +1,6 @@
-# AgroVision AI - Backend
+# AgroVision - Backend
 
-Production-grade backend for the AgroVision AI platform.
+Production-grade backend for the AgroVision platform.
 
 This backend acts as:
 - API Gateway
@@ -25,7 +25,7 @@ Built using:
 - REST APIs
 - Real-Time Alerts
 - Satellite Analytics APIs
-- AI Prediction Integration
+- ML Prediction Integration
 - MongoDB Integration
 - Report Management
 - Weather Intelligence
@@ -245,7 +245,7 @@ POST /api/satellite/process
 - Modular Architecture
 - Enterprise Folder Structure
 - Microservice Ready
-- AI Integration
+- ML Integration
 - GIS Ready
 - Scalable APIs
 - Real-Time Systems
@@ -253,9 +253,9 @@ POST /api/satellite/process
 
 ---
 
-# AgroVision AI
+# AgroVision
 
-A real-world geospatial AI agriculture intelligence platform for:
+A real-world geospatial ML agriculture intelligence platform for:
 - crop disease detection
 - NDVI analytics
 - satellite intelligence
